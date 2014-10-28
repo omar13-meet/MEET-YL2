@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+    <head>
+	<title>Awesomeness</title>
+	<link rel="stylesheet" type="text/css" href="imdergenbern.css">
+    </head>
+    <body>
+	<br><br><br>
+	<table>
+		<tr>
+			<td><a href="imawesome.html">Main</a></td>
+			<td><a href= "awesomness.html" >Awesomeness</a></td>
+			<td><a href= "imdergenbern.html" >IM DERGENBERN</a></td>
+		</tr>
+	</table>
+	<img src="derpakiin.png"/>
+    </body>
+</html>
